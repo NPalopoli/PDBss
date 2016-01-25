@@ -28,6 +28,10 @@ test*
 
 # Input/output files for runs
 *.txt
+*.lst
+
+# Output directory
+PDBssSEQATOM_files/
 
 # =========================
 # Operating System Files
