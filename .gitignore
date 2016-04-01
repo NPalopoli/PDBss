@@ -29,6 +29,8 @@ test*
 # Input/output files for runs
 *.txt
 *.lst
+*.err
+*.out
 
 # Output directory
 PDBssSEQATOM_files/
